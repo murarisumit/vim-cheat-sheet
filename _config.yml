@@ -3,8 +3,9 @@ title: Vim Cheat Sheet
 email: rtorruellas@gmail.com
 description: "A mobile friendly VIM cheat sheet"
 baseurl: ""
-url: "http://vim.rtorr.com"
+url: "http://vim.murari.me"
 twitter_username: richardiii
+# Don't want to change his things
 github_username: rtorr
 
 # Build settings
